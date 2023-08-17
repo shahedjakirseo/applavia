@@ -1,0 +1,4 @@
+annoy
+pandas
+scikit_learn
+streamlit
