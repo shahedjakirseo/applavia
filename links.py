@@ -29,7 +29,10 @@ for i in range(tfidf_matrix.shape[0]):
 annoy_index.build(50)  # 50 trees for the index
 
 # Streamlit UI
-st.title("Link Similarity Search")
+st.title("Link Similarity Search
+Developed by Shahed Jakir
+SEO Specialist
+Twinbit Limited")
 
 # User input: link or title
 user_input = st.text_input("Input:", "Enter a link or a title")
